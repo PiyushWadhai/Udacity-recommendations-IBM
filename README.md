@@ -28,3 +28,6 @@ Finally, you will complete a machine learning approach to building recommendatio
 ## Installation-
  1. Anaconda dsitribution with python 3.6.5
  2. Jupyter nokebooks.
+ 
+## Author
+Piyush Wadhai
